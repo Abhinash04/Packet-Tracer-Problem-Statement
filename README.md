@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the necessary files and documentation for the Campus Cyber Security Enhancement Project conducted as part of the Cisco Cyber Security Industry Problem Statement for the Cisco AICTE Virtual Internship Program 2024. The project focuses on analyzing and enhancing the cyber security measures in place at the Manipal Institute of Technology campus network.
+This repository contains the necessary files and documentation for the Campus Cyber Security Enhancement Project conducted as part of the Cisco Cyber Security Industry Problem Statement for the Cisco AICTE Virtual Internship Program 2024. The project analyses and enhances the cyber security measures at the Odisha University of Technology and Research(OUTR, Bbsr) campus network.
 
 ## Project Components
 
@@ -68,12 +68,8 @@ Here are the visual representations of the campus network topology as designed i
 
 ## Installation and Usage
 
-- **Cisco Packet Tracer**: To view the `.pkt` file, Cisco Packet Tracer must be installed. This software allows for the simulation and testing of network setups.
+- **Cisco Packet Tracer**: The Cisco Packet Tracer must be installed to view the `.pkt` file. This software allows for the simulation and testing of network setups.
 - **PDF Viewer**: A PDF viewer is needed to open the project report and problem statement documents.
-
-## Contributing
-
-Contributions to this project are welcome. Please fork the repository and submit a pull request with your proposed changes.
 
 ## Contact
 
